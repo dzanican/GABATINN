@@ -10,7 +10,7 @@ interface HeroSectionProps {
 }
 
 const HeroSection = ({
-  title = "Transform Your Health Naturally",
+  title = "Combat Tinnitus Naturally",
   subtitle = "Premium supplements backed by science for optimal wellness and vitality",
   ctaText = "Shop Now",
   onCtaClick = () => console.log("CTA clicked"),

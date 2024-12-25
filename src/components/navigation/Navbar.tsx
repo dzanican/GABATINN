@@ -18,7 +18,7 @@ interface NavbarProps {
 }
 
 const Navbar = ({
-  logo = "HealthCo",
+  logo = "GABATINN",
   categories = [
     { name: "Blog", href: "/blog" },
     { name: "Where to Buy", href: "/where-to-buy" },

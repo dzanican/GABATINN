@@ -14,26 +14,25 @@ const BenefitsSection = ({
   benefits = [
     {
       icon: Brain,
-      title: "Cognitive Enhancement",
-      description:
-        "Improve focus, memory, and mental clarity with our nootropic blend.",
+      title: "Promotes Relaxation",
+      description: "Helps calm the nervous system and reduce stress.",
     },
     {
       icon: Heart,
-      title: "Heart Health",
+      title: "Supports Auditory Function",
       description:
         "Support cardiovascular function with essential nutrients and antioxidants.",
     },
     {
       icon: Shield,
-      title: "Immune Support",
+      title: "Reduces Ear-Related Stress",
       description:
-        "Strengthen your body's natural defenses with our immune-boosting formula.",
+        "Helps alleviate stress that can contribute to tinnitus symptoms.",
     },
     {
       icon: Zap,
-      title: "Energy Boost",
-      description: "Natural, sustained energy without the crash or jitters.",
+      title: "Supports Nervous System Health",
+      description: "Plays a role in maintaining balanced neural activity.",
     },
   ],
 }: BenefitsSectionProps) => {
